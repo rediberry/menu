@@ -234,3 +234,8 @@ Menu
     height: 150px;
   }
 }
+@media screen and (max-width: 441px) {
+  .btn-container {
+    flex-direction: column;
+  }
+}
