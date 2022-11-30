@@ -16,6 +16,6 @@ Es un menú de restaurante hecho con ReactJS
 
 ## Para ver el proyecto:
 
-[![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://proyecto-menu-react.netlify.app)
+[![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://react-restaurant-m3nu.netlify.app/)
 
 
