@@ -245,6 +245,9 @@ Menu
   .btn-container {
     flex-direction: column;
   }
+  .filter-btn {
+    margin: 0 4.5rem;
+  }
   .item-text {
     max-width: 280px;
     min-width: 280px;
