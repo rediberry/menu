@@ -14,8 +14,8 @@ Es un menú de restaurante hecho con ReactJS
 
 * Los botones de las categorías se agregan de manera dinámica. (cuantas más categorías tenga en la lista, más botones tendré.)
 
-## Para ver el proyecto:
+## Link al deploy:
 
 [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://react-restaurant-m3nu.netlify.app/)
 
-
+https://www.loom.com/share/05b7f88b6ad74991ad06c886dca0e5fb
